@@ -1,0 +1,12 @@
+{
+  "messageValue": "Hello!",
+  "antiFalseContact": false,
+  "chatQuickMessageButton": true,
+  "chatQuickMessageButtonWidth": 80,
+  "messageCoolingDown": true,
+  "messageCoolingDuration": 10,
+  "displayAsComment": false,
+  "chatQuickMessageButtonHeight": 20,
+  "buttonMessageSendMode": "CLICK_TO_SEND",
+  "messageWithComment": []
+}

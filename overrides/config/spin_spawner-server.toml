@@ -1,0 +1,26 @@
+#.
+#The base rpm at which the spin spawner operates at normal speed.
+# Default: 128.0
+# Range: 1.0 ~ 65536.0
+baseRpm = 128.0
+#.
+#The minimum rpm of spin spawner
+# Default: 64.0
+# Range: 0.0 ~ 256.0
+minRpm = 64.0
+#.
+#Stress impact and capacity of spin spawner
+# Default: 16.0
+# Range: 1.0 ~ 4096.0
+stressPerRpm = 16.0
+#.
+#Generation mod speed
+# Default: 64
+# Range: 1 ~ 256
+generationSpeed = 64
+#.
+#Spin Spawner can be right-click to change entity by any item that data component contain "entity_data", which can raise UNEXPECTED behavior
+loadExternalEntity = false
+#.
+#Blacklist of change spawner entity
+itemBlacklist = []
