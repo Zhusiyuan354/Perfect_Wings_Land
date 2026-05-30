@@ -1,0 +1,5 @@
+{
+	"dragonsurvival:passive": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:simple": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:channeled": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

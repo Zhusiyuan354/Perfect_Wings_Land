@@ -1,0 +1,16 @@
+[
+	"#c:raw_materials/copper",
+	"#c:raw_materials/copper?",
+	"#c:raw_materials/copper?",
+	"#c:raw_materials/gold",
+	"#c:raw_materials/gold?",
+	"#c:raw_materials/gold?",
+	"#c:raw_materials/iron",
+	"#c:raw_materials/iron?",
+	"#c:raw_materials/iron?",
+	"#forge:raw_materials?",
+	"create:raw_zinc",
+	"oritech:raw_nickel",
+	"oritech:raw_platinum",
+	"oritech:raw_uranium"
+]

@@ -1,0 +1,10 @@
+[
+	"minecraft:beacon",
+	"minecraft:comparator",
+	"minecraft:ender_chest",
+	"minecraft:moving_piston",
+	"toms_storage:basic_inventory_hopper",
+	"toms_storage:crafting_terminal",
+	"toms_storage:painted_trim",
+	"toms_storage:storage_terminal"
+]

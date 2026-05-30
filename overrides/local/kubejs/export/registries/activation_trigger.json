@@ -1,0 +1,8 @@
+{
+	"dragonsurvival:on_death": "com.mojang.serialization.MapCodec$2",
+	"dragonsurvival:constant": "com.mojang.serialization.MapCodec$2",
+	"dragonsurvival:on_block_break": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:on_target_killed": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:on_self_hit": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:on_target_hit": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

@@ -1,0 +1,9 @@
+[
+	"#c:is_mountain/peak",
+	"#c:is_mountain/peak?",
+	"#c:is_mountain/slope",
+	"#c:is_mountain/slope?",
+	"#forge:is_mountain?",
+	"#minecraft:is_mountain",
+	"#minecraft:is_mountain?"
+]

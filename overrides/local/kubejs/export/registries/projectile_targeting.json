@@ -1,0 +1,4 @@
+{
+	"dragonsurvival:point": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:area": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

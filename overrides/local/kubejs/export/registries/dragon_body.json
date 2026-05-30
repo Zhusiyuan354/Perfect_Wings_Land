@@ -1,0 +1,8 @@
+{
+	"dragonsurvival:griffin_general": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.body.DragonBody",
+	"dragonsurvival:north": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.body.DragonBody",
+	"dragonsurvival:east": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.body.DragonBody",
+	"dragonsurvival:center": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.body.DragonBody",
+	"dragonsurvival:west": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.body.DragonBody",
+	"dragonsurvival:south": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.body.DragonBody"
+}

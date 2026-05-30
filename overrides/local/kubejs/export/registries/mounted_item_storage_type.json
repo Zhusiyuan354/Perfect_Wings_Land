@@ -1,0 +1,13 @@
+{
+	"create:vault": "com.simibubi.create.content.logistics.vault.ItemVaultMountedStorageType",
+	"sophisticatedstorage:sophisticated_storage": "net.p3pp3rf1y.sophisticatedstoragecreateintegration.storage.MountedSophisticatedStorageType",
+	"create:creative_crate": "com.simibubi.create.content.logistics.crate.CreativeCrateMountedStorageType",
+	"create:toolbox": "com.simibubi.create.content.equipment.toolbox.ToolboxMountedStorageType",
+	"create:depot": "com.simibubi.create.content.logistics.depot.storage.DepotMountedStorageType",
+	"create:simple": "com.simibubi.create.api.contraption.storage.item.simple.SimpleMountedStorageType$Impl",
+	"create_connected:silo": "com.hlysine.create_connected.content.itemsilo.ItemSiloMountedStorageType",
+	"create:fallback": "com.simibubi.create.impl.contraption.storage.FallbackMountedStorageType",
+	"sophisticatedbackpacks:sophisticated_backpack": "net.p3pp3rf1y.sophisticatedbackpackscreateintegration.backpack.MountedSophisticatedBackpackType",
+	"create:chest": "com.simibubi.create.api.contraption.storage.item.chest.ChestMountedStorageType",
+	"create:dispenser": "com.simibubi.create.content.contraptions.behaviour.dispenser.storage.DispenserMountedStorageType"
+}

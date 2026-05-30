@@ -1,0 +1,16 @@
+[
+	"#c:chests/ender",
+	"#c:chests/ender",
+	"#c:chests/trapped",
+	"#c:chests/trapped",
+	"#c:chests/wooden",
+	"#c:chests/wooden",
+	"#forge:chests?",
+	"aquaculture:neptunes_bounty",
+	"sophisticatedstorage:chest",
+	"sophisticatedstorage:copper_chest",
+	"sophisticatedstorage:diamond_chest",
+	"sophisticatedstorage:gold_chest",
+	"sophisticatedstorage:iron_chest",
+	"sophisticatedstorage:netherite_chest"
+]

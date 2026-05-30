@@ -1,0 +1,9 @@
+[
+	"create:blaze_burner",
+	"create:lit_blaze_burner",
+	"create_connected:fan_smoking_catalyst",
+	"create_enchantment_industry:blaze_enchanter",
+	"create_enchantment_industry:blaze_forger",
+	"minecraft:campfire",
+	"minecraft:fire"
+]

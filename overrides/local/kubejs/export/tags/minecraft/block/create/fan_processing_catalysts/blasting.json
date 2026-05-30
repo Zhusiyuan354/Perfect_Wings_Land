@@ -1,0 +1,5 @@
+[
+	"create:blaze_burner",
+	"create_connected:fan_blasting_catalyst",
+	"createaddition:liquid_blaze_burner"
+]

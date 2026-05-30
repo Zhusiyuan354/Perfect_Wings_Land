@@ -1,0 +1,9 @@
+[
+	"#forge:is_magic?",
+	"#neoforge:is_poison",
+	"#neoforge:is_wither",
+	"minecraft:dragon_breath",
+	"minecraft:indirect_magic",
+	"minecraft:magic",
+	"minecraft:thorns"
+]

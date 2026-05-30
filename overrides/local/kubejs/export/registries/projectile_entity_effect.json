@@ -1,0 +1,8 @@
+{
+	"dragonsurvival:potion": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:damage": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:push": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:run_function": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:lightning": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:particle": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

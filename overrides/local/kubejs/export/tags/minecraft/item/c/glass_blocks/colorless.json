@@ -1,0 +1,12 @@
+[
+	"#forge:glass_colorless?",
+	"create:framed_glass",
+	"create:horizontal_framed_glass",
+	"create:tiled_glass",
+	"create:vertical_framed_glass",
+	"create_mechanical_spawner:framed_dark_glass",
+	"create_mechanical_spawner:horizontal_framed_dark_glass",
+	"create_mechanical_spawner:vertical_framed_dark_glass",
+	"minecraft:glass",
+	"minecraft:glass"
+]

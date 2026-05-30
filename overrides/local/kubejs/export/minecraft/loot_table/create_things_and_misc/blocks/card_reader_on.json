@@ -1,0 +1,4 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "create_things_and_misc:blocks/card_reader_on"
+}

@@ -1,0 +1,7 @@
+{
+	"dragonsurvival:fireball": "by.dragonsurvivalteam.dragonsurvival.registry.projectile.ProjectileData",
+	"dragonsurvival:bouncy_ball_lightning": "by.dragonsurvivalteam.dragonsurvival.registry.projectile.ProjectileData",
+	"dragonsurvival:icicle": "by.dragonsurvivalteam.dragonsurvival.registry.projectile.ProjectileData",
+	"dragonsurvival:spike": "by.dragonsurvivalteam.dragonsurvival.registry.projectile.ProjectileData",
+	"dragonsurvival:ball_lightning": "by.dragonsurvivalteam.dragonsurvival.registry.projectile.ProjectileData"
+}

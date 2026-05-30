@@ -1,0 +1,23 @@
+[
+	"#c:dusts/cinnamon",
+	"#c:dusts/diamond",
+	"#c:dusts/glowstone",
+	"#c:dusts/glowstone?",
+	"#c:dusts/obsidian",
+	"#c:dusts/redstone",
+	"#c:dusts/redstone?",
+	"#c:dusts/salt",
+	"#forge:dusts?",
+	"oritech:adamant_dust",
+	"oritech:biosteel_dust",
+	"oritech:coal_dust",
+	"oritech:duratium_dust",
+	"oritech:electrum_dust",
+	"oritech:energite_dust",
+	"oritech:nickel_dust",
+	"oritech:platinum_dust",
+	"oritech:plutonium_dust",
+	"oritech:steel_dust",
+	"oritech:uranium_dust",
+	"supplementaries:ash"
+]

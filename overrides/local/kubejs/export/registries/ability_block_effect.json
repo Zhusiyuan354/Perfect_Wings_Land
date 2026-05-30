@@ -1,0 +1,13 @@
+{
+	"dragonsurvival:particle": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:conversion": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:area_cloud": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:block_break": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:block_harvest": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:explosion": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:summon_entity": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:bonemeal": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:use_item": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:run_function": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:fire": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

@@ -1,0 +1,18 @@
+{
+	"netherdepthsupgrade:soul_sucker": "net.minecraft.world.item.ArmorMaterial",
+	"dragonsurvival:light_dragon": "net.minecraft.world.item.ArmorMaterial",
+	"minecraft:armadillo": "net.minecraft.world.item.ArmorMaterial",
+	"minecraft:iron": "net.minecraft.world.item.ArmorMaterial",
+	"minecraft:netherite": "net.minecraft.world.item.ArmorMaterial",
+	"minecraft:gold": "net.minecraft.world.item.ArmorMaterial",
+	"minecraft:leather": "net.minecraft.world.item.ArmorMaterial",
+	"aquaculture:neptunium": "net.minecraft.world.item.ArmorMaterial",
+	"dragonsurvival:dark_dragon": "net.minecraft.world.item.ArmorMaterial",
+	"create:copper": "net.minecraft.world.item.ArmorMaterial",
+	"supplementaries:shulker_shell": "net.minecraft.world.item.ArmorMaterial",
+	"create:cardboard": "net.minecraft.world.item.ArmorMaterial",
+	"minecraft:chainmail": "net.minecraft.world.item.ArmorMaterial",
+	"minecraft:turtle": "net.minecraft.world.item.ArmorMaterial",
+	"minecraft:diamond": "net.minecraft.world.item.ArmorMaterial",
+	"create_things_and_misc:sticky_boots": "net.minecraft.world.item.ArmorMaterial"
+}

@@ -1,0 +1,6 @@
+{
+	"supplementaries:writable": "net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType",
+	"supplementaries:written": "net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType",
+	"supplementaries:enchanted": "net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType",
+	"supplementaries:book": "net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType"
+}

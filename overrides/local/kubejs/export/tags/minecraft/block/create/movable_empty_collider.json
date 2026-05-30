@@ -1,0 +1,18 @@
+[
+	"#create:corals",
+	"#minecraft:banners",
+	"#minecraft:cave_vines",
+	"#minecraft:fence_gates",
+	"create_connected:copycat_fence_gate",
+	"create_connected:wrapped_copycat_fence_gate",
+	"minecraft:bamboo_sapling",
+	"minecraft:cobweb",
+	"minecraft:powder_snow",
+	"minecraft:tripwire",
+	"minecraft:tripwire_hook",
+	"minecraft:twisting_vines",
+	"minecraft:twisting_vines_plant",
+	"minecraft:vine",
+	"minecraft:weeping_vines",
+	"minecraft:weeping_vines_plant"
+]

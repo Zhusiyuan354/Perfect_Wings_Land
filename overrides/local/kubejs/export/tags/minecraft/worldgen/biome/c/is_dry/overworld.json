@@ -1,0 +1,18 @@
+[
+	"#c:climate_dry?",
+	"#forge:is_dry/overworld?",
+	"minecraft:badlands",
+	"minecraft:badlands",
+	"minecraft:desert",
+	"minecraft:desert",
+	"minecraft:eroded_badlands",
+	"minecraft:eroded_badlands",
+	"minecraft:savanna",
+	"minecraft:savanna",
+	"minecraft:savanna_plateau",
+	"minecraft:savanna_plateau",
+	"minecraft:windswept_savanna",
+	"minecraft:windswept_savanna",
+	"minecraft:wooded_badlands",
+	"minecraft:wooded_badlands"
+]

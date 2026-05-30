@@ -1,0 +1,23 @@
+[
+	"#c:ingots/copper",
+	"#c:ingots/copper?",
+	"#c:ingots/electrum",
+	"#c:ingots/gold",
+	"#c:ingots/gold?",
+	"#c:ingots/iron",
+	"#c:ingots/iron?",
+	"#c:ingots/netherite",
+	"#c:ingots/netherite?",
+	"#create:create_ingots",
+	"#forge:ingots?",
+	"aquaculture:neptunium_ingot",
+	"oritech:adamant_ingot",
+	"oritech:biosteel_ingot",
+	"oritech:duratium_ingot",
+	"oritech:electrum_ingot",
+	"oritech:energite_ingot",
+	"oritech:nickel_ingot",
+	"oritech:platinum_ingot",
+	"oritech:prometheum_ingot",
+	"oritech:steel_ingot"
+]

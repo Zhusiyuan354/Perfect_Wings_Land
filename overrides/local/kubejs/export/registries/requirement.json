@@ -1,0 +1,8 @@
+{
+	"mechanicals:max_speed": "com.oierbravo.mechanicals.foundation.recipe.RecipeRequirementType",
+	"mechanicals:min_speed": "com.oierbravo.mechanicals.foundation.recipe.RecipeRequirementType",
+	"mechanicals:max_y": "com.oierbravo.mechanicals.foundation.recipe.RecipeRequirementType",
+	"mechanicals:min_y": "com.oierbravo.mechanicals.foundation.recipe.RecipeRequirementType",
+	"mechanicals:biome_tag": "com.oierbravo.mechanicals.foundation.recipe.RecipeRequirementType",
+	"mechanicals:biome": "com.oierbravo.mechanicals.foundation.recipe.RecipeRequirementType"
+}

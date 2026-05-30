@@ -1,0 +1,16 @@
+{
+	"farmersdelight:item_ability": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"neoforge:block_tag": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"kubejs:creative_tab": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"kubejs:regex": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"neoforge:intersection": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"fabric_recipe_api_v1:fabric_wrapper": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"moonlight:block_type_swap": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"kubejs:wildcard": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"sophisticatedstorageinmotion:moving_storage": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"neoforge:compound": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"sophisticatedstorage:base_tier_wooden_storage": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"neoforge:difference": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"neoforge:components": "net.neoforged.neoforge.common.crafting.IngredientType",
+	"kubejs:namespace": "net.neoforged.neoforge.common.crafting.IngredientType"
+}

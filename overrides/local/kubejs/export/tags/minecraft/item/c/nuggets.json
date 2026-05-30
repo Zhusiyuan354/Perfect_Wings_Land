@@ -1,0 +1,16 @@
+[
+	"#c:nuggets/electrum",
+	"#c:nuggets/gold",
+	"#c:nuggets/gold",
+	"#c:nuggets/gold?",
+	"#c:nuggets/iron",
+	"#c:nuggets/iron",
+	"#c:nuggets/iron?",
+	"#c:nuggets/neptunium",
+	"#forge:nuggets?",
+	"create:brass_nugget",
+	"create:copper_nugget",
+	"create:experience_nugget",
+	"create:zinc_nugget",
+	"create_enchantment_industry:super_experience_nugget"
+]

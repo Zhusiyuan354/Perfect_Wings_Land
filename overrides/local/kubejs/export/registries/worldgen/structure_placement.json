@@ -1,0 +1,7 @@
+{
+	"minecraft:concentric_rings": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda/0x0000000800eb2bc0",
+	"dragonsurvival:advanced_random_spread": "by.dragonsurvivalteam.dragonsurvival.registry.DSStructurePlacementTypes$$Lambda/0x00000008028cac40",
+	"yungsapi:enhanced_random_spread": "com.yungnickyoung.minecraft.yungsapi.module.StructurePlacementTypeModule$$Lambda/0x0000000801260810",
+	"underground_village:distance_based_structure_placement": "com.reggarf.mods.underground_village.register.USStructurePlacements$$Lambda/0x00000008028caa28",
+	"minecraft:random_spread": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda/0x0000000800eb2bc0"
+}

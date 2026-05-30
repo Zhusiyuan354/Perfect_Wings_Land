@@ -1,0 +1,14 @@
+{
+	"dragonsurvival:water_potion_weakness": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:item_blacklist": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:griffin_item_blacklist": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:impact_weakness": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:melting_point": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:thin_skin": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:snowball_weakness": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:water_splash_potion_weakness": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:cold_weakness": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:fear": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:water_weakness": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty",
+	"dragonsurvival:fear_of_darkness": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.penalty.DragonPenalty"
+}

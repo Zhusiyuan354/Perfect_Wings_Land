@@ -1,0 +1,12 @@
+[
+	"create:brass_block",
+	"create:experience_block",
+	"create:zinc_block",
+	"create_enchantment_industry:super_experience_block",
+	"createaddition:electrum_block",
+	"minecraft:diamond_block",
+	"minecraft:emerald_block",
+	"minecraft:gold_block",
+	"minecraft:iron_block",
+	"minecraft:netherite_block"
+]

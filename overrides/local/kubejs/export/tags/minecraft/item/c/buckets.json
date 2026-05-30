@@ -1,0 +1,17 @@
+[
+	"#c:buckets/dragon_breath",
+	"#c:buckets/dye",
+	"#c:buckets/empty",
+	"#c:buckets/empty?",
+	"#c:buckets/entity_water",
+	"#c:buckets/entity_water?",
+	"#c:buckets/lava",
+	"#c:buckets/lava?",
+	"#c:buckets/milk",
+	"#c:buckets/milk?",
+	"#c:buckets/powder_snow",
+	"#c:buckets/powder_snow?",
+	"#c:buckets/water",
+	"#c:buckets/water?",
+	"create_enchantment_industry:experience_bucket"
+]

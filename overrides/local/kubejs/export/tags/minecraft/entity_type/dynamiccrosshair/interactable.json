@@ -1,0 +1,17 @@
+[
+	"#c:boats?",
+	"#c:minecarts?",
+	"#dynamiccrosshair:always_interactable",
+	"minecraft:allay",
+	"minecraft:cat",
+	"minecraft:donkey",
+	"minecraft:horse",
+	"minecraft:item_frame",
+	"minecraft:mule",
+	"minecraft:parrot",
+	"minecraft:skeleton_horse",
+	"minecraft:villager",
+	"minecraft:wandering_trader",
+	"minecraft:wolf",
+	"minecraft:zombie_horse"
+]

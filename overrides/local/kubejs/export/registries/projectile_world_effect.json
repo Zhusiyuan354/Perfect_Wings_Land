@@ -1,0 +1,6 @@
+{
+	"dragonsurvival:run_function": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:explosion": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:particle": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:lightning": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

@@ -1,0 +1,7 @@
+[
+	"#dungeons_arise:collections/other_mountains?",
+	"#dungeons_arise:collections/other_taigas?",
+	"#minecraft:is_hill",
+	"#minecraft:is_mountain",
+	"#minecraft:is_taiga"
+]

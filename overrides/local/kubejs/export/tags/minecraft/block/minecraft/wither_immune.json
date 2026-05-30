@@ -1,0 +1,21 @@
+[
+	"create_mechanical_spawner:framed_dark_glass",
+	"create_mechanical_spawner:horizontal_framed_dark_glass",
+	"create_mechanical_spawner:reinforced_brass_casing",
+	"create_mechanical_spawner:vertical_framed_dark_glass",
+	"minecraft:barrier",
+	"minecraft:bedrock",
+	"minecraft:chain_command_block",
+	"minecraft:command_block",
+	"minecraft:end_gateway",
+	"minecraft:end_portal",
+	"minecraft:end_portal_frame",
+	"minecraft:jigsaw",
+	"minecraft:light",
+	"minecraft:moving_piston",
+	"minecraft:reinforced_deepslate",
+	"minecraft:repeating_command_block",
+	"minecraft:structure_block",
+	"supplementaries:safe",
+	"supplementaries:spring_launcher_arm"
+]

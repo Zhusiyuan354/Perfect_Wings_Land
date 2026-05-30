@@ -1,0 +1,20 @@
+[
+	"#minecraft:wooden_doors",
+	"betterarcheology:rotten_door",
+	"create:andesite_door",
+	"create:brass_door",
+	"create:copper_door",
+	"create:framed_glass_door",
+	"create:train_door",
+	"minecraft:copper_door",
+	"minecraft:exposed_copper_door",
+	"minecraft:iron_door",
+	"minecraft:oxidized_copper_door",
+	"minecraft:waxed_copper_door",
+	"minecraft:waxed_exposed_copper_door",
+	"minecraft:waxed_oxidized_copper_door",
+	"minecraft:waxed_weathered_copper_door",
+	"minecraft:weathered_copper_door",
+	"supplementaries:gold_door",
+	"supplementaries:netherite_door"
+]

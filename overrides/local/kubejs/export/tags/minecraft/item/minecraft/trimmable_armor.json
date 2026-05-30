@@ -1,0 +1,12 @@
+[
+	"#minecraft:chest_armor",
+	"#minecraft:foot_armor",
+	"#minecraft:head_armor",
+	"#minecraft:leg_armor",
+	"create:copper_backtank?",
+	"create:copper_diving_boots?",
+	"create:copper_diving_helmet?",
+	"create:netherite_backtank?",
+	"create:netherite_diving_boots?",
+	"create:netherite_diving_helmet?"
+]

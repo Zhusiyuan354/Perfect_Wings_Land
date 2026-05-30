@@ -1,0 +1,4 @@
+{
+	"create:train_station": "com.simibubi.create.content.logistics.packagePort.PackagePortTarget$TrainStationFrogportTarget$Type",
+	"create:chain_conveyor": "com.simibubi.create.content.logistics.packagePort.PackagePortTarget$ChainConveyorFrogportTarget$Type"
+}

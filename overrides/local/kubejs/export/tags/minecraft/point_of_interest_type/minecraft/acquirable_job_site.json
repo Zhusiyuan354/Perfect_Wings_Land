@@ -1,0 +1,21 @@
+[
+	"betterarcheology:archeology_table_poi",
+	"create_better_villagers:andesite_worker_poi",
+	"create_better_villagers:brassworker_poi",
+	"create_better_villagers:copperworker_poi",
+	"create_better_villagers:miner_poi",
+	"dragonsurvival:dragon_rider_poi",
+	"minecraft:armorer",
+	"minecraft:butcher",
+	"minecraft:cartographer",
+	"minecraft:cleric",
+	"minecraft:farmer",
+	"minecraft:fisherman",
+	"minecraft:fletcher",
+	"minecraft:leatherworker",
+	"minecraft:librarian",
+	"minecraft:mason",
+	"minecraft:shepherd",
+	"minecraft:toolsmith",
+	"minecraft:weaponsmith"
+]

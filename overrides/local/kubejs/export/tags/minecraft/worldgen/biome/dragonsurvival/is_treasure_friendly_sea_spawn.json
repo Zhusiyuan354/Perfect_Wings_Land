@@ -1,0 +1,21 @@
+[
+	"#byg:is_river?",
+	"#byg:is_swamp?",
+	"#dragonsurvival:compat_is_wythers?",
+	"#forge:is_river?",
+	"#forge:is_swamp?",
+	"#minecraft:is_beach?",
+	"#minecraft:is_river?",
+	"#minecraft:is_swamp?",
+	"#wythers:is_swamp?",
+	"minecraft:frozen_peaks?",
+	"minecraft:ice_spikes?",
+	"minecraft:jagged_peaks?",
+	"minecraft:mangrove_swamp?",
+	"minecraft:river?",
+	"minecraft:snowy_beach?",
+	"minecraft:snowy_plains?",
+	"minecraft:snowy_slopes?",
+	"minecraft:snowy_taiga?",
+	"minecraft:swamp?"
+]

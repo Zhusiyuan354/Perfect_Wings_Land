@@ -1,0 +1,6 @@
+{
+	"supplementaries:light_data": "net.mehvahdjukaar.moonlight.api.map.CustomMapData$Type",
+	"supplementaries:color_data": "net.mehvahdjukaar.moonlight.api.map.CustomMapData$Type",
+	"supplementaries:antique": "net.mehvahdjukaar.moonlight.api.map.CustomMapData$Type",
+	"supplementaries:depth_lock": "net.mehvahdjukaar.moonlight.api.map.CustomMapData$Type"
+}

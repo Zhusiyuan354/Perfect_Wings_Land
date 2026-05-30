@@ -1,0 +1,8 @@
+{
+	"dragonsurvival:informational": "com.mojang.serialization.MapCodec$2",
+	"dragonsurvival:fear": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:damage_modification": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:item_blacklist": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:take_damage": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:mob_effect": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

@@ -1,0 +1,10 @@
+{
+	"dragonsurvival:adult": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.stage.DragonStage",
+	"dragonsurvival:newborn": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.stage.DragonStage",
+	"dragonsurvival:ancient": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.stage.DragonStage",
+	"dragonsurvival:griffin_fledgling": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.stage.DragonStage",
+	"dragonsurvival:griffin_juvenile": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.stage.DragonStage",
+	"dragonsurvival:young": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.stage.DragonStage",
+	"dragonsurvival:griffin_adult": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.stage.DragonStage",
+	"dragonsurvival:griffin_hatchling": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.stage.DragonStage"
+}

@@ -1,0 +1,21 @@
+[
+	"#c:forest?",
+	"#c:is_plains?",
+	"#c:is_taiga?",
+	"#c:tree_deciduous?",
+	"#minecraft:is_plains?",
+	"#minecraft:is_taiga?",
+	"minecraft:forest",
+	"minecraft:old_growth_pine_taiga",
+	"minecraft:old_growth_spruce_taiga",
+	"minecraft:plains",
+	"minecraft:snowy_taiga",
+	"minecraft:sunflower_plains",
+	"minecraft:taiga",
+	"terralith:alpine_highlands?",
+	"terralith:cold_shrubland?",
+	"terralith:forested_highlands?",
+	"terralith:highlands?",
+	"terralith:shield?",
+	"terralith:shrubland?"
+]

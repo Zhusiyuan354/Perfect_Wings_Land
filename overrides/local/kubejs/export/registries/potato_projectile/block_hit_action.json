@@ -1,0 +1,4 @@
+{
+	"create:plant_crop": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"create:place_block_on_ground": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

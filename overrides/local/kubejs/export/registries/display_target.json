@@ -1,0 +1,10 @@
+{
+	"create:lectern": "com.simibubi.create.content.redstone.displayLink.target.LecternDisplayTarget",
+	"supplementaries:text_holder_display_target": "net.mehvahdjukaar.supplementaries.integration.neoforge.create.TextHolderDisplayTarget",
+	"create:nixie_tube": "com.simibubi.create.content.redstone.displayLink.target.NixieTubeDisplayTarget",
+	"supplementaries:notice_board_display_target": "net.mehvahdjukaar.supplementaries.integration.neoforge.create.NoticeBoardDisplayTarget",
+	"create:display_board": "com.simibubi.create.content.redstone.displayLink.target.DisplayBoardTarget",
+	"supplementaries:speaker_block_display_target": "net.mehvahdjukaar.supplementaries.integration.neoforge.create.SpeakerBlockDisplayTarget",
+	"create:sign": "com.simibubi.create.content.redstone.displayLink.target.SignDisplayTarget",
+	"supplementaries:blackboard_display_target": "net.mehvahdjukaar.supplementaries.integration.neoforge.create.BlackboardDisplayTarget"
+}

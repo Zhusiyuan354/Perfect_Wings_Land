@@ -1,0 +1,1365 @@
+[
+	{
+		"id": "openpartiesandclaims",
+		"name": "Open Parties and Claims",
+		"version": "0.25.4",
+		"description": "This mod adds the ability to claim and to forceload world chunks, as well as create and manage player parties. It also gives server owners powerful controls over their players' usage of the mod's features.\nThe mod's API allows other mods or plugins to easily interact with the parties and the chunk claims, both on the server and the client side.\nXaero's Minimap mod and World Map mods are recommended in order to fully experience everything that this mod has to offer."
+	},
+	{
+		"id": "kubejs_curios",
+		"name": "KubeJSCurios",
+		"version": "1.0.4"
+	},
+	{
+		"id": "connectorextras_kubejs_bridge",
+		"name": "Connector Extras KubeJS Bridge",
+		"version": "1.12.1+1.21.1",
+		"description": "Provides KubeJS plugin support for Fabric mods on Forge"
+	},
+	{
+		"id": "dynamiccrosshair",
+		"name": "Dynamic Crosshair",
+		"version": "9.8",
+		"description": "Dynamic Crosshair that changes shape based on what is targeted"
+	},
+	{
+		"id": "fabric_rendering_fluids_v1",
+		"name": "Forgified Fabric Rendering Fluids (v1)",
+		"version": "3.1.6+857185bc19",
+		"description": "Hooks for registering fluid renders."
+	},
+	{
+		"id": "fabric_convention_tags_v1",
+		"name": "Forgified Fabric Convention Tags",
+		"version": "2.1.4+7f945d5b19",
+		"description": "Contains common tags used by mods for vanilla things."
+	},
+	{
+		"id": "customwindowtitle_multiloader",
+		"name": "Custom Window Title (Multiloader)",
+		"version": "1.4.1",
+		"description": "Customize window title and icon."
+	},
+	{
+		"id": "neoforge",
+		"name": "NeoForge",
+		"version": "21.1.194",
+		"description": "NeoForge, a NEW broad compatibility API."
+	},
+	{
+		"id": "modernfix",
+		"name": "ModernFix",
+		"version": "5.24.3+mc1.21.1",
+		"description": "Egregious, yet effective performance improvements for modern Minecraft"
+	},
+	{
+		"id": "fabric_block_view_api_v2",
+		"name": "Forgified Fabric BlockView API (v2)",
+		"version": "1.0.11+e9036fd419",
+		"description": "Hooks for block views"
+	},
+	{
+		"id": "fabric_command_api_v2",
+		"name": "Forgified Fabric Command API (v2)",
+		"version": "2.2.28+36d727be19",
+		"description": "Adds command-related hooks."
+	},
+	{
+		"id": "fabric_convention_tags_v2",
+		"name": "Forgified Fabric Convention Tags (v2)",
+		"version": "2.11.0+87e5848019",
+		"description": "Contains common tags used by mods for better inter-mod compatibility."
+	},
+	{
+		"id": "yungsapi",
+		"name": "YUNG's API",
+		"version": "1.21.1-NeoForge-5.1.6",
+		"description": "API Library for YUNG's minecraft mods."
+	},
+	{
+		"id": "iris",
+		"name": "Iris",
+		"version": "1.8.12-snapshot+mc1.21.1-local",
+		"description": "Iris is a modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs."
+	},
+	{
+		"id": "connectorextras_rei_bridge",
+		"name": "Connector Extras REI Bridge",
+		"version": "1.12.1+1.21.1",
+		"description": "Runs REI's Fabric plugin detector on Forge in addition to the default one, allowing it to load plugins from mods of both platforms at once."
+	},
+	{
+		"id": "createcasing",
+		"name": "Create Encased",
+		"version": "1.7.2-fix1",
+		"description": "Encase Your World !"
+	},
+	{
+		"id": "tcdcommons",
+		"name": "TCD Commons API",
+		"version": "3.12.7fabric-1.21",
+		"description": "My personal API library for my mods. It aims to improve performance by avoiding rewriting the same code, and to speed up the mod development process."
+	},
+	{
+		"id": "balm",
+		"name": "Balm",
+		"version": "21.0.49",
+		"description": "Abstraction Layer (but not really) for Blay's multiplatform mods"
+	},
+	{
+		"id": "fabric_screen_api_v1",
+		"name": "Forgified Fabric Screen API (v1)",
+		"version": "2.0.25+4228281319",
+		"description": "Adds screen related hooks."
+	},
+	{
+		"id": "createbetterfps",
+		"name": "CreateBetterFps",
+		"version": "1.1.1"
+	},
+	{
+		"id": "chat_heads",
+		"name": "Chat Heads",
+		"version": "0.13.20",
+		"description": "See who are you chatting with!\nThis mod adds player heads next to their chat messages."
+	},
+	{
+		"id": "betterfortresses",
+		"name": "YUNG's Better Nether Fortresses",
+		"version": "1.21.1-NeoForge-3.1.5",
+		"description": "A complete redesign of Minecraft's Nether Fortresses!"
+	},
+	{
+		"id": "cloth_config",
+		"name": "Cloth Config v15 API",
+		"version": "15.0.140",
+		"description": "An API for config screens."
+	},
+	{
+		"id": "sound_physics_remastered",
+		"name": "Sound Physics Remastered",
+		"version": "1.21.1-1.4.15",
+		"description": "Provides realistic sound attenuation, reverberation, and absorption through blocks."
+	},
+	{
+		"id": "supplementaries",
+		"name": "Supplementaries",
+		"version": "1.21-3.4.4",
+		"description": "Many functional and useful Vanilla+ blocks"
+	},
+	{
+		"id": "athena",
+		"name": "Athena",
+		"version": "4.0.2",
+		"description": "Crossplatform Baked Model Loader"
+	},
+	{
+		"id": "connectorextras_terrablender_bridge",
+		"name": "Connector Extras Terrablender Bridge",
+		"version": "1.12.1+1.21.1",
+		"description": "Loads TerraBlender Fabric API entrypoints of Fabric mods on Forge."
+	},
+	{
+		"id": "torchmaster",
+		"name": "Torchmaster",
+		"version": "21.1.5-beta",
+		"description": "Special lamp and torch which prevents mob spawning."
+	},
+	{
+		"id": "fabric_game_rule_api_v1",
+		"name": "Forgified Fabric Game Rule API (v1)",
+		"version": "1.0.53+36d727be19",
+		"description": "Allows registration of custom game rules."
+	},
+	{
+		"id": "mafglib",
+		"name": "MaFgLib",
+		"version": "0.4.1+mc1.21.1",
+		"description": "MaLiLib unofficial NeoForge port. Library mod for the NeoForge port of masa's mods."
+	},
+	{
+		"id": "malilib",
+		"name": "MaLiLib Stub",
+		"version": "0.4.1+mc1.21.1",
+		"description": "MaLiLib Stub."
+	},
+	{
+		"id": "resourcefulconfig",
+		"name": "Resourcefulconfig",
+		"version": "3.0.11",
+		"description": "A library for creating config files for your mod across multiple platforms."
+	},
+	{
+		"id": "reeses_sodium_options",
+		"name": "Reese's Sodium Options",
+		"version": "1.8.3+mc1.21.4",
+		"description": "Replaces Sodium's Options Screen"
+	},
+	{
+		"id": "curios",
+		"name": "Curios API",
+		"version": "9.5.1+1.21.1",
+		"description": "A flexible and expandable accessory/equipment API for users and developers."
+	},
+	{
+		"id": "ias",
+		"name": "In-Game Account Switcher",
+		"version": "9.0.4",
+		"description": "Allows you to change which account you are signed in to in-game without restarting Minecraft."
+	},
+	{
+		"id": "searchables",
+		"name": "Searchables",
+		"version": "1.0.2",
+		"description": "A library mod to facilitate adding search bars with auto complete and search types."
+	},
+	{
+		"id": "audition",
+		"name": "Audition",
+		"version": "1.0.1-1.21.1",
+		"description": "An audio optimization mod for Minecraft that enhances sound performance through dynamic mixing, adaptive quality, and spatial audio optimizations."
+	},
+	{
+		"id": "bettervillage",
+		"name": "Better village",
+		"version": "3.3.1",
+		"description": "This mod improves the vanilla minecraft villages !"
+	},
+	{
+		"id": "fabric_entity_events_v1",
+		"name": "Forgified Fabric Entity Events (v1)",
+		"version": "1.7.0+1af6e62419",
+		"description": "Events to hook into entities."
+	},
+	{
+		"id": "accessories",
+		"name": "Accessories",
+		"version": "1.1.0-beta.48+1.21.1",
+		"description": "A extendable and data-driven Accessory Mod for Minecraft."
+	},
+	{
+		"id": "conditional_mixin",
+		"name": "conditional mixin",
+		"version": "0.6.4",
+		"description": "Use annotation to conditionally apply your mixins"
+	},
+	{
+		"id": "transition",
+		"name": "TRansition",
+		"version": "1.0.3",
+		"description": "Library to transition between Modloaders and Minecraft versions"
+	},
+	{
+		"id": "betterendisland",
+		"name": "YUNG's Better End Island",
+		"version": "1.21.1-NeoForge-3.1.2",
+		"description": "A complete redesign of the End island, making the Ender Dragon fight much more fun and interesting!"
+	},
+	{
+		"id": "dynamic_fps",
+		"name": "Dynamic FPS",
+		"version": "3.9.5",
+		"description": "Reduce resource usage while Minecraft is in the background or idle."
+	},
+	{
+		"id": "fabric_rendering_data_attachment_v1",
+		"name": "Forgified Fabric Rendering Data Attachment (v1)",
+		"version": "0.3.49+73761d2e19",
+		"description": "Thread-safe hooks for block entity data use during terrain rendering."
+	},
+	{
+		"id": "jadeaddons",
+		"name": "Jade Addons",
+		"version": "6.1.0+neoforge",
+		"description": "Jade additional mod supports"
+	},
+	{
+		"id": "customwindowtitle",
+		"name": "Custom Window Title",
+		"version": "1.4.1",
+		"description": "Customize window title and icon."
+	},
+	{
+		"id": "toms_storage",
+		"name": "Tom's Simple Storage Mod",
+		"version": "2.2.2",
+		"description": "Simple vanilla style storage mod."
+	},
+	{
+		"id": "fastleafdecay",
+		"name": "FastLeafDecay",
+		"version": "35",
+		"description": "Increases leaves decay rate, so that you won't end up with a bunch of floating leaves."
+	},
+	{
+		"id": "sliceanddice",
+		"name": "Create Slice & Dice",
+		"version": "4.0.1",
+		"description": "Making automation for Farmers Delight more sensible"
+	},
+	{
+		"id": "fabric_client_tags_api_v1",
+		"name": "Forgified Fabric Client Tags",
+		"version": "1.1.15+e053909619",
+		"description": "Adds the ability to load tags from the local mods."
+	},
+	{
+		"id": "jei_integration_reborn",
+		"name": "JEI Integration Reborn",
+		"version": "1.0.1"
+	},
+	{
+		"id": "colorwheel_patcher",
+		"name": "Colorwheel Patcher",
+		"version": "0.2.4+mc1.21.1",
+		"description": "Autopatch supported shaders to be compatible with Colorwheel"
+	},
+	{
+		"id": "customskinloader",
+		"name": "CustomSkinLoader",
+		"version": "14.25",
+		"description": "Custom Skin Loader for Minecraft"
+	},
+	{
+		"id": "atistructures",
+		"name": "atistructures",
+		"version": "1.4.0",
+		"description": "A collection of custom structures and dungeons"
+	},
+	{
+		"id": "fabric_model_loading_api_v1",
+		"name": "Forgified Fabric Model Loading API (v1)",
+		"version": "2.0.0+986ae77219",
+		"description": "Provides hooks for model loading."
+	},
+	{
+		"id": "jei",
+		"name": "Just Enough Items",
+		"version": "19.22.1.316",
+		"description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance."
+	},
+	{
+		"id": "fabric_screen_handler_api_v1",
+		"name": "Forgified Fabric Screen Handler API (v1)",
+		"version": "1.3.88+8dbc56dd19",
+		"description": "Hooks and extensions for creating screen handlers."
+	},
+	{
+		"id": "flerovium",
+		"name": "Flerovium",
+		"version": "1.0.10",
+		"description": "Makes rendering faster"
+	},
+	{
+		"id": "libraryferret",
+		"name": "Library ferret",
+		"version": "4.0.0",
+		"description": "Shared code for my mod."
+	},
+	{
+		"id": "mechanicals",
+		"name": "Mechanicals Lib",
+		"version": "1.0.10",
+		"description": "Utility Library for modding, mainly but not limited Create Addons."
+	},
+	{
+		"id": "fabric_rendering_v1",
+		"name": "Forgified Fabric Rendering (v1)",
+		"version": "5.0.5+0d1668bc19",
+		"description": "Hooks and registries for rendering-related things."
+	},
+	{
+		"id": "libbamboo",
+		"name": "LibBamboo",
+		"version": "2.16",
+		"description": "Library for Crendgrim's client-side mods"
+	},
+	{
+		"id": "fabric_renderer_indigo",
+		"name": "Forgified Fabric Renderer - Indigo",
+		"version": "1.7.0+4198af7119",
+		"description": "Default implementation of the Fabric Renderer API."
+	},
+	{
+		"id": "naturescompass",
+		"name": "Nature's Compass",
+		"version": "1.21.1-3.0.2-neoforge",
+		"description": "Search for a biome and get information about it."
+	},
+	{
+		"id": "badpackets",
+		"name": "Bad Packets",
+		"version": "0.8.2",
+		"description": "Allow packet messaging between multiple modding platform."
+	},
+	{
+		"id": "neruina",
+		"name": "Neruina",
+		"version": "3.0.0",
+		"description": "This is a mod that prevents ticking entity and ticking block entity / tile entity crashes from bricking worlds."
+	},
+	{
+		"id": "midnightlib",
+		"name": "MidnightLib",
+		"version": "1.6.3",
+		"description": "Common Library for Team MidnightDust's mods."
+	},
+	{
+		"id": "midnightcontrols",
+		"name": "MidnightControls",
+		"version": "1.10.0.1",
+		"description": "Adds controller support and enhanced controls overall."
+	},
+	{
+		"id": "advancementinfo",
+		"name": "AdvancementInfo",
+		"version": "1.20.4-fabric0.91.2-1.4",
+		"description": "Make it easier to see which advancements you have and what's missing."
+	},
+	{
+		"id": "catalogue",
+		"name": "Catalogue",
+		"version": "1.11.1",
+		"description": "A modern mod list menu designed for all modloaders"
+	},
+	{
+		"id": "sodium",
+		"name": "Sodium",
+		"version": "0.6.13+mc1.21.1",
+		"description": "Sodium is a powerful rendering engine for Minecraft which improves frame rates and reduces lag spikes."
+	},
+	{
+		"id": "fabric_particles_v1",
+		"name": "Forgified Fabric Particles (v1)",
+		"version": "4.0.2+824f924c19",
+		"description": "Hooks for registering custom particles."
+	},
+	{
+		"id": "dungeons_arise_seven_seas",
+		"name": "When Dungeons Arise: Seven Seas",
+		"version": "1.0.3.2",
+		"description": "Elegant - and likely dangerous - vessels lost in the seven seas..."
+	},
+	{
+		"id": "status_effect_bars",
+		"name": "Status Effect Bars",
+		"version": "1.0.6",
+		"description": "Adds small customizable bars to the status effects overlay and in the inventory to show the remaining duration of effects."
+	},
+	{
+		"id": "lootintegrations_betterarcheology",
+		"name": "lootintegrations_betterarcheology mod",
+		"version": "1",
+		"description": "lootintegrations_betterarcheology mod"
+	},
+	{
+		"id": "sophisticatedbackpackscreateintegration",
+		"name": "Sophisticated Backpacks Create Integration",
+		"version": "0.1.3",
+		"description": "Full Featured Sophisticated Backpacks on Create Contraptions"
+	},
+	{
+		"id": "dungeons_arise",
+		"name": "When Dungeons Arise",
+		"version": "2.1.64",
+		"description": "Elegant - and likely dangerous - structures and roguelike dungeons to lose yourself in..."
+	},
+	{
+		"id": "minecraft",
+		"name": "Minecraft",
+		"version": "1.21.1",
+		"description": "Minecraft"
+	},
+	{
+		"id": "tundradragon",
+		"name": "Tundra Dragon (Add-on for Dragon Survival)",
+		"version": "1.0.0",
+		"description": "MISSING DESCRIPTION"
+	},
+	{
+		"id": "aquaculturedelight",
+		"name": "Aquaculture Delight",
+		"version": "1.2.0",
+		"description": "Adds Farmer's Delight and Aquaculture compatibility."
+	},
+	{
+		"id": "terrablender",
+		"name": "TerraBlender",
+		"version": "4.1.0.8",
+		"description": "A library mod for adding biomes in a simple and compatible manner with Minecraft's new biome/terrain system."
+	},
+	{
+		"id": "fabric_api_base",
+		"name": "Forgified Fabric API Base",
+		"version": "0.4.42+d1308dedd1",
+		"description": "Contains the essentials for Fabric API modules."
+	},
+	{
+		"id": "mousetweaks",
+		"name": "Mouse Tweaks",
+		"version": "2.26.1",
+		"description": "A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."
+	},
+	{
+		"id": "shouldersurfing",
+		"name": "Shoulder Surfing Reloaded",
+		"version": "1.21.1-4.14.1",
+		"description": "Shoulder Surfing Reloaded is a highly configurable third person camera mod for minecraft, originally made by Sabar."
+	},
+	{
+		"id": "fabric_block_api_v1",
+		"name": "Forgified Fabric Block API (v1)",
+		"version": "1.0.22+a6e994cd19",
+		"description": "Hooks for blocks"
+	},
+	{
+		"id": "connectorextras_jei_bridge",
+		"name": "Connector Extras JEI Bridge",
+		"version": "1.12.1+1.21.1",
+		"description": "Loads JEI plugins of Fabric mods on Forge."
+	},
+	{
+		"id": "fabric_resource_conditions_api_v1",
+		"name": "Forgified Fabric Resource Conditions API (v1)",
+		"version": "4.3.0+5bdd099819",
+		"description": "Allows conditionally loading resources."
+	},
+	{
+		"id": "betterfpsdist",
+		"name": "betterfpsdist mod",
+		"version": "6.0",
+		"description": "betterfpsdist allows setting of more restricted render distances"
+	},
+	{
+		"id": "kotlinforforge",
+		"name": "Kotlin For Forge",
+		"version": "5.9.0",
+		"description": "Makes Kotlin forge-friendly"
+	},
+	{
+		"id": "libgui",
+		"name": "LibGuiFoxified",
+		"version": "0.1.1+11.1.0+1.21.1",
+		"description": "LibGui unofficial NeoForge port.\n\nEasy grid-based GUIs for NeoForge."
+	},
+	{
+		"id": "flywheel",
+		"name": "Flywheel",
+		"version": "1.0.4",
+		"description": "An overhauled entity and block entity rendering API."
+	},
+	{
+		"id": "ponder",
+		"name": "Ponder",
+		"version": "1.0.56",
+		"description": "Visual in-Game Documentation"
+	},
+	{
+		"id": "ecologics",
+		"name": "Ecologics",
+		"version": "2.3.1",
+		"description": "Simple vanilla biome updates, with fun mobs, blocks, and more!"
+	},
+	{
+		"id": "gravestone",
+		"name": "Gravestone Mod",
+		"version": "1.21.1-1.0.32",
+		"description": "Places a gravestone with your inventory items inside when you die"
+	},
+	{
+		"id": "fabric_item_group_api_v1",
+		"name": "Forgified Fabric Item Group API (v1)",
+		"version": "4.1.7+e324903319",
+		"description": "An API for adding custom item groups."
+	},
+	{
+		"id": "bhc",
+		"name": "Baubley Heart Canisters",
+		"version": "1.21.1-1.2.2",
+		"description": "Heart Canisters for Curios, enjoy! :D"
+	},
+	{
+		"id": "polymorph",
+		"name": "Polymorph",
+		"version": "1.1.0+1.21.1",
+		"description": "No more recipe conflicts! Adds an option to choose the crafting result if more than one is available."
+	},
+	{
+		"id": "entityculling",
+		"name": "EntityCulling",
+		"version": "1.8.2",
+		"description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible."
+	},
+	{
+		"id": "xaeroplus",
+		"name": "XaeroPlus",
+		"version": "2.28.0",
+		"description": "Xaero WorldMap / Minimap Extra Features"
+	},
+	{
+		"id": "xaerominimap",
+		"name": "Xaero's Minimap",
+		"version": "25.2.10",
+		"description": "The most vanilla-looking minimap for Minecraft."
+	},
+	{
+		"id": "fabric_registry_sync_v0",
+		"name": "Forgified Fabric Registry Sync (v0)",
+		"version": "5.2.0+867470b919",
+		"description": "Syncs registry mappings."
+	},
+	{
+		"id": "immediatelyfast",
+		"name": "ImmediatelyFast",
+		"version": "1.6.6+1.21.1",
+		"description": "Speed up and optimize immediate mode rendering in Minecraft"
+	},
+	{
+		"id": "continuity",
+		"name": "Continuity",
+		"version": "3.0.01.21.neoforge",
+		"description": "Continuity is a Fabric mod that allows resource packs that use the OptiFine connected textures format, OptiFine emissive textures format (only for blocks and item models), or OptiFine custom block layers format to work without OptiFine."
+	},
+	{
+		"id": "oceansdelight",
+		"name": "Ocean's Delight",
+		"version": "1.0.3",
+		"description": "This is a mod that adds food based on the creatures in the ocean"
+	},
+	{
+		"id": "appleskin",
+		"name": "AppleSkin",
+		"version": "3.0.7+mc1.21",
+		"description": "Adds various food-related HUD improvements"
+	},
+	{
+		"id": "fabric_recipe_api_v1",
+		"name": "Forgified Fabric Recipe API (v1)",
+		"version": "5.0.14+59440bcc19",
+		"description": "Recipe extensions such as creation of new types of recipe ingredients."
+	},
+	{
+		"id": "lootr",
+		"name": "Lootr",
+		"version": "1.21-1.10.35.91",
+		"description": "Makes loot chest loot per-user."
+	},
+	{
+		"id": "fabric_object_builder_api_v1",
+		"name": "Forgified Fabric Object Builder API (v1)",
+		"version": "15.2.1+cc242efd19",
+		"description": "Builders for objects vanilla has locked down."
+	},
+	{
+		"id": "create_power_loader",
+		"name": "Create: Power Loader",
+		"version": "2.0.3-mc1.21.1",
+		"description": "Mechanical chunk loaders for Create."
+	},
+	{
+		"id": "aquaculture",
+		"name": "Aquaculture 2",
+		"version": "2.7.14",
+		"description": "Welcome to Aquaculture! An expansion of Minecraft's fishing system."
+	},
+	{
+		"id": "fabric_sound_api_v1",
+		"name": "Forgified Fabric Sound API (v1)",
+		"version": "1.0.23+10b84f8419",
+		"description": "Hooks for modifying Minecraft's sound system."
+	},
+	{
+		"id": "fabric_message_api_v1",
+		"name": "Forgified Fabric Message API (v1)",
+		"version": "6.0.13+e053909619",
+		"description": "Adds message-related hooks."
+	},
+	{
+		"id": "configurable",
+		"name": "Configurable",
+		"version": "3.2.1",
+		"description": "Config library that allows decentralised settings in a mod"
+	},
+	{
+		"id": "defaultoptions",
+		"name": "Default Options",
+		"version": "21.1.4",
+		"description": "A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file."
+	},
+	{
+		"id": "totw_modded",
+		"name": "Towers of The Wild: Modded",
+		"version": "1.0.8"
+	},
+	{
+		"id": "kuma_api",
+		"name": "KumaAPI",
+		"version": "21.0.5",
+		"description": "Universal Key Modifier API (Shift, CTRL, etc.)"
+	},
+	{
+		"id": "create_things_and_misc",
+		"name": "create: things and misc",
+		"version": "1.0.0",
+		"description": "MISSING DESCRIPTION"
+	},
+	{
+		"id": "fabric_renderer_api_v1",
+		"name": "Forgified Fabric Renderer API (v1)",
+		"version": "3.4.0+acb05a3919",
+		"description": "Defines rendering extensions for dynamic/fancy block and item models."
+	},
+	{
+		"id": "bettergrass",
+		"name": "BetterGrassify",
+		"version": "1.7.0+neoforge.1.21.1",
+		"description": "Gamers can finally touch grass!?\nOptiFine's Fancy and Fast better grass implemented on Fabric and NeoForge!"
+	},
+	{
+		"id": "geckolib",
+		"name": "GeckoLib 4",
+		"version": "4.7.6",
+		"description": "GeckoLib is an animation engine for Minecraft Mods, with support for complex 3D keyframe-based animations, 30+ easings, concurrent animation support, sound and particle keyframes, event keyframes, and more."
+	},
+	{
+		"id": "fabric_item_api_v1",
+		"name": "Forgified Fabric Item API (v1)",
+		"version": "11.1.1+57cdfa8219",
+		"description": "Hooks for items"
+	},
+	{
+		"id": "worldplaytime",
+		"name": "World Play Time",
+		"version": "1.2.2",
+		"description": "Displays the world's play time in the world selection menu."
+	},
+	{
+		"id": "dynamiclights",
+		"name": "Dynamic Lights",
+		"version": "1.21.1.2NF",
+		"description": "Make configurable Blocks and Items shine light, even while moving!"
+	},
+	{
+		"id": "duradisplay",
+		"name": "DurabilityDisplay",
+		"version": "2.0.0"
+	},
+	{
+		"id": "obsidianui",
+		"name": "ObsidianUI",
+		"version": "0.2.7+mc1.21",
+		"description": "SpruceUI unofficial architectury port.\n\nJust a GUI library."
+	},
+	{
+		"id": "sophisticatedcore",
+		"name": "Sophisticated Core",
+		"version": "1.3.64",
+		"description": "A library / shared functionality mod for Sophisticated Storage and Backpacks"
+	},
+	{
+		"id": "xaeroworldmap",
+		"name": "Xaero's World Map",
+		"version": "1.39.12",
+		"description": "A self-writing fullscreen map which also works as an add-on to Xaero's Minimap."
+	},
+	{
+		"id": "controlling",
+		"name": "Controlling",
+		"version": "19.0.5",
+		"description": "Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu."
+	},
+	{
+		"id": "lootintegrations",
+		"name": "Lootintegrations mod",
+		"version": "4.7",
+		"description": "Integrates items from loottables into other loottables for intermod loot compatibility"
+	},
+	{
+		"id": "fabric_data_attachment_api_v1",
+		"name": "Forgified Fabric Data Attachment API (v1)",
+		"version": "1.4.3+58235da019",
+		"description": "Allows conveniently attaching data to existing game objects"
+	},
+	{
+		"id": "gravestonecurioscompat",
+		"name": "Gravestone Curios Compatibility",
+		"version": "3.0.1",
+		"description": "Adds compatibility between Gravestone and Curios"
+	},
+	{
+		"id": "sophisticatedbackpacks",
+		"name": "Sophisticated Backpacks",
+		"version": "3.24.20",
+		"description": "Fancy and functional backpacks."
+	},
+	{
+		"id": "ends_delight",
+		"name": "End's Delight",
+		"version": "2.5.1+neoforge.1.21.1",
+		"description": "An addon mod for Farmer's Delight based around adding culinary content to the End!"
+	},
+	{
+		"id": "additionalstructures",
+		"name": "Additional Structures",
+		"version": "6.3.2",
+		"description": "Adds over 150 new structures to the game to enhance your world!"
+	},
+	{
+		"id": "grandpower",
+		"name": "Grand Power",
+		"version": "3.0.2",
+		"description": "Simple Energy API with support for long amounts, and full interoperability with Forge Energy."
+	},
+	{
+		"id": "melody",
+		"name": "Melody",
+		"version": "1.0.10",
+		"description": "OpenAL-based library mod to play background music."
+	},
+	{
+		"id": "baguettelib",
+		"name": "BaguetteLib",
+		"version": "1.0.0",
+		"description": "A library mod about adding more events into the NeoForge API (and more stuff)"
+	},
+	{
+		"id": "connector",
+		"name": "Sinytra Connector",
+		"version": "2.0.0-beta.7+1.21.1",
+		"description": "Connector is a translation/compatibility layer that allows running Fabric mods on NeoForge.\nIts goal is to bring the two platforms closer together, saving developers time and effort maintaining their mods for\nmultiple platforms at once, as well as allowing players to play all their favourite mods in one modpack."
+	},
+	{
+		"id": "fzzy_config",
+		"name": "Fzzy Config",
+		"version": "0.7.2+1.21+neoforge",
+		"description": "Configuration engine with automatic GUI generation, client-server syncing, powerful validation and error handling, and much more."
+	},
+	{
+		"id": "fabric_api",
+		"name": "Forgified Fabric API",
+		"version": "0.115.6+2.1.1+1.21.1",
+		"description": "Core API module providing key hooks and intercompatibility features."
+	},
+	{
+		"id": "connectorextras_modmenu_bridge",
+		"name": "Connector Extras ModMenu Bridge",
+		"version": "1.12.1+1.21.1",
+		"description": "Integrates ModMenu the config screen factory with Forge's mod list gui."
+	},
+	{
+		"id": "modmenu",
+		"name": "ModMenu (Connector Extras)",
+		"version": "11.0.1",
+		"description": "Dummy mod provided by Connector Extras to allow mods detecting ModMenu to function as expected."
+	},
+	{
+		"id": "fabric_content_registries_v0",
+		"name": "Forgified Fabric Content Registries (v0)",
+		"version": "8.0.18+0a0c14ff19",
+		"description": "Adds registries for vanilla mechanics that are missing them."
+	},
+	{
+		"id": "konkrete",
+		"name": "Konkrete",
+		"version": "1.9.9",
+		"description": "Library for Keksuccino's mods."
+	},
+	{
+		"id": "create_connected",
+		"name": "Create: Connected",
+		"version": "1.1.6-mc1.21.1",
+		"description": "Quality-of-life blocks that you wish existed in Create."
+	},
+	{
+		"id": "farmersdelight",
+		"name": "Farmer's Delight",
+		"version": "1.2.8",
+		"description": "A cozy farming and cooking expansion for Minecraft!"
+	},
+	{
+		"id": "mynethersdelight",
+		"name": "My Nether's Delight",
+		"version": "1.8",
+		"description": "An new Nether expansion for Farmer's Delight!!"
+	},
+	{
+		"id": "entity_model_features",
+		"name": "Entity Model Features",
+		"version": "2.4.1",
+		"description": "This is an expansion of the ETF mod, it adds support for OptiFine format Custom Entity Model (CEM) resource packs.\nWhile still allowing to you disable this to use a different model mod :)"
+	},
+	{
+		"id": "entity_texture_features",
+		"name": "Entity Texture Features",
+		"version": "6.2.9",
+		"description": "Adds support for resource-pack driven features for entity textures including some OptiFine features\nSupports OptiFine:\n - Random & Custom textures\n - Emissive textures\nWith more features such as:\n - Blinking textures\n - Player Skin support\","
+	},
+	{
+		"id": "fastipping",
+		"name": "Fast IP Ping",
+		"version": "1.0.5",
+		"description": "Yeet the laggy reversed DNS lookup for literal IP server addresses"
+	},
+	{
+		"id": "ambientsounds",
+		"name": "AmbientSounds",
+		"version": "6.2.0",
+		"description": "Expands minecraft's ambient sounds."
+	},
+	{
+		"id": "fabric_api_lookup_api_v1",
+		"name": "Forgified Fabric API Lookup API (v1)",
+		"version": "1.6.70+c21168c319",
+		"description": "A universal way to expose and query APIs"
+	},
+	{
+		"id": "dynamiccrosshairapi",
+		"name": "Dynamic Crosshair API",
+		"version": "1.2",
+		"description": "DynamicCrosshair compatibility API"
+	},
+	{
+		"id": "modelfix",
+		"name": "Model Gap Fix",
+		"version": "1.21-1.10",
+		"description": "Removes small gaps in item and block models"
+	},
+	{
+		"id": "underground_village",
+		"name": "underground_village",
+		"version": "1.5.5",
+		"description": "Underground Village, Adding in sprawling mazes of underground halls and floors Stoneholm fills the world with a new type of village. Explore confusing hallways & convert the place to your own home or build yours above it trapping the villagers underground for eternity, or just kidnap the villagers for your own not nefarious purposes."
+	},
+	{
+		"id": "sophisticatedstoragecreateintegration",
+		"name": "Sophisticated Storage Create Integration",
+		"version": "0.1.11",
+		"description": "Full Featured Sophisticated Storage on Create Contraptions"
+	},
+	{
+		"id": "architectury",
+		"name": "Architectury",
+		"version": "13.0.8",
+		"description": "A intermediary api aimed to ease developing multiplatform mods."
+	},
+	{
+		"id": "fabric_loot_api_v2",
+		"name": "Forgified Fabric Loot API (v2)",
+		"version": "3.0.15+a3ee712d19",
+		"description": "Hooks for manipulating loot tables."
+	},
+	{
+		"id": "cupboard",
+		"name": "Cupboard mod",
+		"version": "2.9",
+		"description": "Cupboard library for utilities and configs"
+	},
+	{
+		"id": "connectorextras",
+		"name": "Connector Extras",
+		"version": "1.12.1+1.21.1",
+		"description": "Integrating Connector with third-party APIs"
+	},
+	{
+		"id": "fabric_loot_api_v3",
+		"name": "Forgified Fabric Loot API (v3)",
+		"version": "1.0.3+333dfad919",
+		"description": "Hooks for manipulating loot tables."
+	},
+	{
+		"id": "fabric_networking_api_v1",
+		"name": "Forgified Fabric Networking API (v1)",
+		"version": "4.3.0+ab6ec1d119",
+		"description": "Low-level, vanilla protocol oriented networking hooks."
+	},
+	{
+		"id": "shulkerboxtooltip",
+		"name": "ShulkerBoxTooltip",
+		"version": "5.1.6+1.21.1",
+		"description": "What's in my shulker box?"
+	},
+	{
+		"id": "dragonsurvival",
+		"name": "Dragon Survival",
+		"version": "2.0.33",
+		"description": "This mod lets you play as a dragon. There are 3 dragon kinds, which have different traits.\n        To start, you must create a Dragon Altar where you can choose the dragon species you want to become."
+	},
+	{
+		"id": "fabric_lifecycle_events_v1",
+		"name": "Forgified Fabric Lifecycle Events (v1)",
+		"version": "2.5.0+a2ee258a19",
+		"description": "Events for the game's lifecycle."
+	},
+	{
+		"id": "fabric_key_binding_api_v1",
+		"name": "Forgified Fabric Key Binding API (v1)",
+		"version": "1.0.47+62cc7ce119",
+		"description": "Key Binding registry API."
+	},
+	{
+		"id": "fabric_transfer_api_v1",
+		"name": "Forgified Fabric Transfer API (v1)",
+		"version": "5.4.2+a25cb45619",
+		"description": "A common API for the transfer of fluids, items and other game resources."
+	},
+	{
+		"id": "inventorysorter",
+		"name": "Simple Inventory Sorter",
+		"version": "24.0.20",
+		"description": "Simple inventory sorting.\n\nMiddle click to sort your inventory.\nScroll wheel on a stack to move in and out."
+	},
+	{
+		"id": "rhino",
+		"name": "Rhino",
+		"version": "2101.2.7-build.77",
+		"description": "A fork of Mozilla's Rhino library, modified for use in mods"
+	},
+	{
+		"id": "kubejs",
+		"name": "KubeJS",
+		"version": "2101.7.1-build.181",
+		"description": "Customize your modpack or server with JavaScript!"
+	},
+	{
+		"id": "owo",
+		"name": "oωo",
+		"version": "0.12.15.5-beta.1+1.21",
+		"description": "yes its bad i know thanks"
+	},
+	{
+		"id": "oritech",
+		"name": "Oritech",
+		"version": "0.17.3",
+		"description": "Simple tech mod."
+	},
+	{
+		"id": "amendments",
+		"name": "Amendments",
+		"version": "1.21-1.2.24",
+		"description": "Many tweaks to Vanilla Blocks"
+	},
+	{
+		"id": "sophisticatedstorage",
+		"name": "Sophisticated Storage",
+		"version": "1.4.47",
+		"description": "Fancy and functional storage containers."
+	},
+	{
+		"id": "sophisticated_emerald_upgrade",
+		"name": "Sophisticated Emerald Upgrade",
+		"version": "1.0.3-NeoForge-1.21.1",
+		"description": "Enhance your Sophisticated Backpacks/Storage with the Emerald Upgrade! This upgrade boosts storage capacity beyond Netherite!!"
+	},
+	{
+		"id": "connectorextras_pehkui_bridge",
+		"name": "Connector Extras Pehkui Bridge",
+		"version": "1.12.1+1.21.1",
+		"description": "Compatibility bridge for Pehkui's Fabric API on Forge"
+	},
+	{
+		"id": "fabric_resource_loader_v0",
+		"name": "Forgified Fabric Resource Loader (v0)",
+		"version": "1.3.1+4ea8954419",
+		"description": "Asset and data resource loading."
+	},
+	{
+		"id": "trender",
+		"name": "TRender",
+		"version": "1.0.5",
+		"description": "Multi version rendering library based on CottonMC LibGui"
+	},
+	{
+		"id": "create",
+		"name": "Create",
+		"version": "6.0.6",
+		"description": "Technology that empowers the player."
+	},
+	{
+		"id": "create_integrated_farming",
+		"name": "Create: Integrated Farming",
+		"version": "1.0.6",
+		"description": "Integrated farming automation for Create"
+	},
+	{
+		"id": "create_mechanical_spawner",
+		"name": "Create: Mechanical spawner",
+		"version": "1.2.4-6.0.6",
+		"description": "Create Addon with mob spawning mechanics."
+	},
+	{
+		"id": "create_dragons_plus",
+		"name": "Create: Dragons Plus",
+		"version": "1.6.1",
+		"description": "Library mod for DragonsPlusMinecraft Create-addons."
+	},
+	{
+		"id": "waystones",
+		"name": "Waystones",
+		"version": "21.1.22",
+		"description": "Teleport back to activated waystones. For Survival, Adventure or Servers."
+	},
+	{
+		"id": "mr_farmers_cuttingregionsunexplored",
+		"name": "Farmer's Cutting: Regions Unexplored",
+		"version": "1.21-1.1a-neoforge",
+		"description": "Adds Farmer's Delight cutting recipes for Regions Unexplored"
+	},
+	{
+		"id": "artifacts",
+		"name": "Artifacts",
+		"version": "13.0.7",
+		"description": "Adds various new powerful uncraftable items to make exploration a bit more interesting"
+	},
+	{
+		"id": "configured",
+		"name": "Configured",
+		"version": "2.6.0",
+		"description": "Creates a simple GUI config for every mod!"
+	},
+	{
+		"id": "make_bubbles_pop",
+		"name": "Make Bubbles Pop",
+		"version": "0.3.0-fabric",
+		"description": "This client-side mod makes bubble particles pop and lets them realistically rise to the water surface.\nIt also adds bubble particles to opening chests, opening barrels and explosions underwater."
+	},
+	{
+		"id": "everycomp",
+		"name": "Every Compat",
+		"version": "1.21-2.10.14",
+		"description": "Ultimate Wood Compat Mod"
+	},
+	{
+		"id": "explorerscompass",
+		"name": "Explorer's Compass",
+		"version": "1.21.1-3.0.3-neoforge",
+		"description": "Search for and locate structures anywhere in the world."
+	},
+	{
+		"id": "griffin_ds",
+		"name": "griffin_ds",
+		"version": "1.0.0",
+		"description": "MISSING DESCRIPTION"
+	},
+	{
+		"id": "netherdepthsupgrade",
+		"name": "Nether Depths Upgrade",
+		"version": "3.1.8",
+		"description": "This is a mod that gives the lava depths in the nether a little upgrade, credits for the fortress grouper and textures go to Crydigo, credits for animations go to TheIndominator"
+	},
+	{
+		"id": "connectorextras_energy_bridge",
+		"name": "Connector Extras Energy Bridge",
+		"version": "1.12.1+1.21.1",
+		"description": "A bridge between Forge Energy (FE) and Team Reborn's Energy API (E) that allows two-way conversion of energy units, for both BlockEntities and ItemStacks."
+	},
+	{
+		"id": "travelerstitles",
+		"name": "Traveler's Titles",
+		"version": "1.21.1-NeoForge-5.1.3",
+		"description": "Epic, RPG-like titles when entering biomes & dimensions"
+	},
+	{
+		"id": "toofast",
+		"name": "Too Fast",
+		"version": "0.8.5.8",
+		"description": "Disables \"moved too quickly\"."
+	},
+	{
+		"id": "oritechthings",
+		"name": "Oritech Things",
+		"version": "0.0.24",
+		"description": "Some additional things for Oritech mod."
+	},
+	{
+		"id": "fabric_transitive_access_wideners_v1",
+		"name": "Forgified Fabric Transitive Access Wideners (v1)",
+		"version": "6.2.0+6c854b6f19",
+		"description": "Contains transitive access wideners that provide access to otherwise inaccessible Minecraft code."
+	},
+	{
+		"id": "create_better_villagers",
+		"name": "Create_Better_Villagers",
+		"version": "1.3.2",
+		"description": "Create: Better Villager that adds a host of Create-mod village professions"
+	},
+	{
+		"id": "vanilladelight",
+		"name": "Vanilla Delight",
+		"version": "1.21.1-1.0.3",
+		"description": "Adds 30+ new dishes using only vanilla ingredients."
+	},
+	{
+		"id": "libipn",
+		"name": "libIPN",
+		"version": "6.5.1",
+		"description": "Take controll over you inventory"
+	},
+	{
+		"id": "moonlight",
+		"name": "Moonlight Lib",
+		"version": "1.21-2.20.7",
+		"description": "A small library with many cool unique features, from dynamic asset generation to dynamic villager schedules, data driven trades and Map Markers, simple multi loader utilities and more"
+	},
+	{
+		"id": "regions_unexplored",
+		"name": "Regions Unexplored",
+		"version": "0.5.6.1",
+		"description": "Regions Unexplored is a mod that aims to add new content to the overworld. Currently, adds almost 70 new biomes!"
+	},
+	{
+		"id": "fabric_blockrenderlayer_v1",
+		"name": "Forgified Fabric BlockRenderLayer Registration (v1)",
+		"version": "1.1.52+b089b4bd19",
+		"description": "Registration utility for block and fluid render layers."
+	},
+	{
+		"id": "jade",
+		"name": "Jade",
+		"version": "15.10.3+neoforge",
+		"description": "Minecraft mod shows what you are looking at. (Hwyla fork)"
+	},
+	{
+		"id": "creativecore",
+		"name": "CreativeCore",
+		"version": "2.13.9",
+		"description": "A simple but powerful coremod."
+	},
+	{
+		"id": "mr_ly_clumps",
+		"name": "Clumps",
+		"version": "1-v1.0.2",
+		"description": "Merge experience orbs and instant pickup experience orbs to reduce lag!"
+	},
+	{
+		"id": "betterstats",
+		"name": "Better Statistics Screen",
+		"version": "3.13.9fabric-1.21",
+		"description": "Improves the statistics screen and makes it more useful."
+	},
+	{
+		"id": "expandeddelight",
+		"name": "Expanded Delight",
+		"version": "0.1.3.2",
+		"description": "Gradually expands upon the already amazing Farmers Delight"
+	},
+	{
+		"id": "moredelight",
+		"name": "More Delight",
+		"version": "25.07.28a-1.21-neoforge",
+		"description": "An addon mod for Farmer's Delight that adds extra features to the base mod."
+	},
+	{
+		"id": "fabric_gametest_api_v1",
+		"name": "Forgified Fabric Game Test API (v1)",
+		"version": "2.0.5+29f188ce19",
+		"description": "Allows registration of custom game tests."
+	},
+	{
+		"id": "mr_towers_ofthewildmoddedextratowers",
+		"name": "Towers of the Wild Modded - Extra Towers",
+		"version": "1.0.6",
+		"description": "Adds more towers to the Towers of the Wild Modded mod to integrate with more modded dimensions than is supported by default."
+	},
+	{
+		"id": "betterarcheology",
+		"name": "Better Archeology",
+		"version": "1.3.2",
+		"description": "Discover artifacts & fossils by encountering new structures that'll enhance your adventure and exploration!"
+	},
+	{
+		"id": "fabric_biome_api_v1",
+		"name": "Forgified Fabric Biome API (v1)",
+		"version": "13.0.31+1e62d33c19",
+		"description": "Hooks for adding biomes to the default world generator."
+	},
+	{
+		"id": "fancymenu",
+		"name": "FancyMenu",
+		"version": "3.6.4",
+		"description": "Customize Minecraft's menus with ease!"
+	},
+	{
+		"id": "ferritecore",
+		"name": "Ferrite Core",
+		"version": "7.0.2",
+		"description": "Reduces memory usage."
+	},
+	{
+		"id": "yet_another_config_lib_v3",
+		"name": "YetAnotherConfigLib",
+		"version": "3.7.1+1.21.1-neoforge",
+		"description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft."
+	},
+	{
+		"id": "justzoom",
+		"name": "Just Zoom",
+		"version": "2.1.0",
+		"description": "Zoom by pressing a hotkey and adjust the zoom factor with your mouse wheel!"
+	},
+	{
+		"id": "betterf3",
+		"name": "BetterF3",
+		"version": "11.0.3",
+		"description": "Better F3 for Minecraft NeoForge\nReplaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.\n\nThe creator would like to thank:\n- cominixo for creating the Fabric version of the mod\n- Nirewen for creating the icon"
+	},
+	{
+		"id": "colorwheel",
+		"name": "Colorwheel",
+		"version": "0.2.3+mc1.21.1",
+		"description": "Allows you to use Iris Shaders with Flywheel"
+	},
+	{
+		"id": "expandability",
+		"name": "ExpandAbility",
+		"version": "12.0.0",
+		"description": "Library mod that provides increased control over vanilla abilities"
+	},
+	{
+		"id": "connectorextras_emi_bridge",
+		"name": "Connector Extras EMI Bridge",
+		"version": "1.12.1+1.21.1",
+		"description": "Loads EMI plugins of Fabric mods on Forge."
+	},
+	{
+		"id": "create_enchantment_industry",
+		"name": "Create: Enchantment Industry",
+		"version": "2.1.7",
+		"description": "Automatic Enchanting with Create."
+	},
+	{
+		"id": "fabric_data_generation_api_v1",
+		"name": "Forgified Fabric Data Generation API (v1)",
+		"version": "20.2.28+2d91a6db19",
+		"description": "Allows for automatic data generation."
+	},
+	{
+		"id": "forcecloseworldloadingscreen",
+		"name": "kennytv's epic force close loading screen mod for Fabric",
+		"version": "2.2.3",
+		"description": "Force closes the level receiving and resource pack loading screen instead of having to wait for the chunks you're in to be sent"
+	},
+	{
+		"id": "fabric_events_interaction_v0",
+		"name": "Forgified Fabric Events Interaction (v0)",
+		"version": "0.7.13+7b71cc1619",
+		"description": "Events for player interaction with blocks and entities."
+	},
+	{
+		"id": "vanillin",
+		"name": "Vanillin",
+		"version": "1.1.3",
+		"description": "Instanced rendering for entities and block entities via Flywheel."
+	},
+	{
+		"id": "sophisticatedstorageinmotion",
+		"name": "Sophisticated Storage In Motion",
+		"version": "0.10.18",
+		"description": "Sophisticated Storage on moving entities."
+	},
+	{
+		"id": "createaddition",
+		"name": "Create Crafts & Additions",
+		"version": "1.5.1",
+		"description": "Create Crafts & Additions extends Create and acts as a bridge between electric and kinetic energy from Create.\nJoin the Discord: https://discord.gg/mRbNnyKTEu\nSpecial thanks to:\nthe Create team, the Forge team, and all contributors on the CC&A discord including:\nAlphaMode, Skippyall, BobDole, legoatoom, gobiidaiah, StockiesLad, THEREDSTONEBRO lawliet__, and Uraxys."
+	}
+]

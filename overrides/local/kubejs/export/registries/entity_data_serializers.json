@@ -1,0 +1,4 @@
+{
+	"create:carriage_data": "com.simibubi.create.content.trains.entity.CarriageSyncDataSerializer",
+	"moonlight:wood_type": "net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000000800d167e8"
+}

@@ -1,0 +1,12 @@
+[
+	"#byg:is_spooky?",
+	"#byg:is_taiga?",
+	"#forge:is_spooky?",
+	"#forge:is_taiga?",
+	"#minecraft:is_taiga?",
+	"#wythers:is_dark_forest?",
+	"minecraft:dark_forest?",
+	"minecraft:old_growth_pine_taiga?",
+	"minecraft:old_growth_spruce_taiga?",
+	"minecraft:taiga?"
+]

@@ -1,0 +1,11 @@
+[
+	"#c:boats",
+	"#c:minecarts",
+	"botania:player_mover?",
+	"create:contraption?",
+	"create:gantry_contraption?",
+	"create:seat?",
+	"create:stationary_contraption?",
+	"hexerei:broom?",
+	"littlelogistics:seater_barge?"
+]

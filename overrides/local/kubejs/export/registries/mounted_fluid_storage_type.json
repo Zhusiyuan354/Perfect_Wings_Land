@@ -1,0 +1,6 @@
+{
+	"create_enchantment_industry:experience_lantern": "plus.dragons.createenchantmentindustry.common.fluids.lantern.ExperienceLanternMountedFluidStorageType",
+	"create:fluid_tank": "com.simibubi.create.content.fluids.tank.storage.FluidTankMountedStorageType",
+	"create:creative_fluid_tank": "com.simibubi.create.content.fluids.tank.storage.creative.CreativeFluidTankMountedStorageType",
+	"create_connected:fluid_vessel": "com.hlysine.create_connected.content.fluidvessel.FluidVesselMountedStorageType"
+}

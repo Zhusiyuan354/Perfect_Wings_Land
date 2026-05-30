@@ -1,0 +1,7 @@
+{
+	"dragonsurvival:instant": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:hit_by_projectile": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:item_used": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"dragonsurvival:hit_by_water_potion": "com.mojang.serialization.MapCodec$2",
+	"dragonsurvival:supply": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

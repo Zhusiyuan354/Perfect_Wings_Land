@@ -1,0 +1,22 @@
+[
+	"#c:climate_cold?",
+	"minecraft:frozen_peaks",
+	"minecraft:frozen_river",
+	"minecraft:grove",
+	"minecraft:ice_spikes",
+	"minecraft:jagged_peaks",
+	"minecraft:snowy_beach",
+	"minecraft:snowy_plains",
+	"minecraft:snowy_slopes",
+	"minecraft:snowy_taiga",
+	"terralith:alpine_grove?",
+	"terralith:frozen_clifs?",
+	"terralith:glacial_chasm?",
+	"terralith:scarlet_mountains?",
+	"terralith:siberian_grove?",
+	"terralith:skylands_winter?",
+	"terralith:snowy_badlands?",
+	"terralith:snowy_shield?",
+	"terralith:wintry_forest?",
+	"terralith:yosemite_lowlands?"
+]

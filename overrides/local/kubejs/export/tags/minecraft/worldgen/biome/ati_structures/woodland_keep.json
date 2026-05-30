@@ -1,0 +1,19 @@
+[
+	"#c:forest?",
+	"#c:is_jungle?",
+	"#c:is_taiga?",
+	"#minecraft:is_taiga?",
+	"minecraft:bamboo_jungle",
+	"minecraft:dark_forest",
+	"minecraft:forest",
+	"minecraft:jungle",
+	"minecraft:mangrove_swamp",
+	"minecraft:old_growth_pine_taiga",
+	"minecraft:old_growth_spruce_taiga",
+	"minecraft:sparse_jungle",
+	"minecraft:swamp",
+	"terralith:amethyst_rainforest?",
+	"terralith:highlands?",
+	"terralith:meadow?",
+	"terralith:rocky_jungle?"
+]

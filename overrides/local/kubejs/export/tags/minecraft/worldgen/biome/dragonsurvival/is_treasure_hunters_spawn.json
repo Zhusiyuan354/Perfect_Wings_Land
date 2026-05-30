@@ -1,0 +1,14 @@
+[
+	"#byg:is_spooky?",
+	"#byg:is_taiga?",
+	"#c:is_spooky?",
+	"#c:is_taiga?",
+	"#dragonsurvival:compat_is_wythers?",
+	"#forge:is_spooky?",
+	"#forge:is_taiga?",
+	"#minecraft:is_taiga?",
+	"minecraft:dark_forest?",
+	"minecraft:old_growth_pine_taiga?",
+	"minecraft:old_growth_spruce_taiga?",
+	"minecraft:taiga?"
+]

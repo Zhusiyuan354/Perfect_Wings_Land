@@ -1,0 +1,16 @@
+[
+	"#byg:is_badlands?",
+	"#byg:is_desert?",
+	"#byg:is_wasteland?",
+	"#forge:is_badlands?",
+	"#forge:is_desert?",
+	"#minecraft:is_badlands?",
+	"#minecraft:is_desert?",
+	"#neoforge:is_badlands?",
+	"#neoforge:is_desert?",
+	"#wythers:is_desert?",
+	"minecraft:badlands?",
+	"minecraft:desert?",
+	"minecraft:eroded_badlands?",
+	"minecraft:wooded_badlands?"
+]

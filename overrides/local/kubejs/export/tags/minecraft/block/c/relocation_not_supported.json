@@ -1,0 +1,6 @@
+[
+	"#c:movement_restricted?",
+	"#forge:immovable?",
+	"#forge:relocation_not_supported?",
+	"create:track"
+]

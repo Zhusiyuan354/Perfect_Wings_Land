@@ -1,0 +1,9 @@
+[
+	"#forge:glass_panes_colorless?",
+	"create:framed_glass_pane",
+	"create:horizontal_framed_glass_pane",
+	"create:tiled_glass_pane",
+	"create:vertical_framed_glass_pane",
+	"minecraft:glass_pane",
+	"minecraft:glass_pane"
+]

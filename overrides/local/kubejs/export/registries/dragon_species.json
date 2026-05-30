@@ -1,0 +1,7 @@
+{
+	"dragonsurvival:cave_dragon": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.DragonSpecies",
+	"dragonsurvival:griffin": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.DragonSpecies",
+	"dragonsurvival:tundra_dragon": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.DragonSpecies",
+	"dragonsurvival:sea_dragon": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.DragonSpecies",
+	"dragonsurvival:forest_dragon": "by.dragonsurvivalteam.dragonsurvival.registry.dragon.DragonSpecies"
+}

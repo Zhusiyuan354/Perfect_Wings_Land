@@ -1,0 +1,6 @@
+{
+	"create:toward_motion": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"create:billboard": "com.mojang.serialization.MapCodec$2",
+	"create:stuck_to_entity": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"create:tumble": "com.mojang.serialization.MapCodec$2"
+}

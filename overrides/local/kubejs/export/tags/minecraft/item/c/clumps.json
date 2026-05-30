@@ -1,0 +1,13 @@
+[
+	"create:crushed_raw_copper?",
+	"create:crushed_raw_gold?",
+	"create:crushed_raw_iron?",
+	"create:crushed_raw_nickel?",
+	"create:crushed_raw_platinum?",
+	"create:crushed_raw_zinc?",
+	"oritech:copper_clump",
+	"oritech:gold_clump",
+	"oritech:iron_clump",
+	"oritech:nickel_clump",
+	"oritech:platinum_clump"
+]

@@ -1,0 +1,12 @@
+[
+	"#c:forest?",
+	"#c:is_plains?",
+	"#minecraft:is_plains?",
+	"minecraft:forest",
+	"minecraft:plains",
+	"minecraft:sunflower_plains",
+	"terralith:alpine_highlands?",
+	"terralith:cold_shrubland?",
+	"terralith:highlands?",
+	"terralith:shrubland?"
+]
