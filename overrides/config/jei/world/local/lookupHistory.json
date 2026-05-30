@@ -1,0 +1,20 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:hunger"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:luck"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"dragonsurvival:burn"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"dragonsurvival:sea_peace"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:conduit_power"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:health_boost"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:absorption"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:saturation"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:blindness"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:night_vision"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:potion_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justpotionrings:ring","components":{"mob:effect":{"effect":"minecraft:speed"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:reactor_controller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:tech_lever"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritechthings:particle_accelerator_speed_sensor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"worldcomment:comment_eyeglass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"delighto_flight:charged_rose_tea"},"type":"fluid_stack","bookmarkType":"INGREDIENT"}
+]
