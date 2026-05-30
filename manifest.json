@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "PWL_Pack",
+  "version": "1.2",
+  "author": "VPC",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "neoforge-21.1.211",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}
